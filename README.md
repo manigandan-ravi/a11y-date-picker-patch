@@ -1,5 +1,5 @@
 # a11y-date-picker-patch
-Contains the patch for the issues in a11y-date-picker library
+Contains the patch for the issues in a11y-date-picker library which is used in Freshservice support portal v2
 
 # Issue
 - A11y date picker hides the invalid rows.
