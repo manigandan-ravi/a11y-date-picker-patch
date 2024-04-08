@@ -10,6 +10,6 @@ Contains the patch for the issues in a11y-date-picker library
 - Changed the logic to check if atleast one selectable date is present then the row is considered valid and shouldn't be hidden.
 
 # Usage
-Paste the below code at the end of _Admin > Servicedesk Rebarnding > Customise support portal > **Head**_
+Paste the below code at the end of _Admin > Servicedesk Rebarnding > Customise support portal > **Head**_ or **Footer**
 
 `<script defer src="https://manigandan-ravi.github.io/a11y-date-picker-patch/hideInvalidRow-patch.js"></script>`
